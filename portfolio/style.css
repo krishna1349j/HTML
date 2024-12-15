@@ -1,0 +1,256 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.nevbar {
+    height: 75px;
+    width: 100%;
+    background-color: #00CCDD;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    
+}
+
+#AM {
+    height: 900;
+    width: 100%;
+    scroll-margin-block-start: 900px;
+    scroll-margin-block-end: 1200px;
+}
+
+
+.Home {
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.about {
+    margin-left: 150px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.contact {
+    margin-left: 300px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-color: #00CCDD;
+}
+
+.text {
+    font-size: 22px;
+    align-items: center;
+    padding-top: 18%;
+    padding-left: 22%;
+}
+  
+
+
+
+.txt {
+    position: absolute;
+    top: 80px;
+    width: 500px;
+    text-align: center;
+    font-size: 20px;
+  }
+
+
+
+a {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  div {
+    font-size: 16px;
+    font-weight: 600;
+     display: block;
+     color: var(--text-black-900);
+     position: absolute;
+     padding: 5px 15px;
+     margin-bottom: 10px;
+}
+
+.text {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.head {
+    margin-top: 110px;
+    margin-left: 590px;
+}
+
+.MAM {
+    background-color: #00CCDD;
+    border-radius: 40px;
+    position: absolute;
+  bottom: 50px;
+  right: 50px;
+  font-size: 20px;
+}
+
+.AboutMe {
+   margin-top: 900px;
+   text-decoration: underline;
+     text-decoration-style: double;
+  
+   
+}
+
+.aboutclass {
+    margin-top: 825px;
+}
+
+.AMtxt {
+    margin-top: 1000px;
+    font-size: larger;
+}
+
+.info {
+    margin-top: 1200px;
+    text-decoration: underline #4F75FF;
+    font-size: 20px;
+}
+
+.info2 {
+    margin-top: 1250px;
+    text-decoration: underline #4F75FF;
+    font-size: 20px;
+}
+
+.info3 {
+    margin-top: 1200px;
+    margin-left: 500px;
+    text-decoration: underline #4F75FF;
+    font-size: 20px;
+}
+
+.info4 {
+    margin-top: 1250px;
+    margin-left: 500px;
+    text-decoration: underline #4F75FF;
+    font-size: 20px;
+}
+
+.info5 {
+    margin-top: 1300px;
+    text-decoration: underline #4F75FF;
+    font-size: 20px;
+}
+
+.info6 {
+    margin-top: 1300px;
+    margin-left: 500px;
+    text-decoration: underline #4F75FF;
+    font-size: 20px;
+}
+
+.info7 {
+    margin-top: 1350px;
+    text-decoration: underline #4F75FF;
+    font-size: 20px;
+}
+
+.contact2 {
+    background-color: #00CCDD;
+    border-radius: 40px;
+    position: absolute;
+    top: 1475px;
+    margin-left: 1200px;
+    font-size: 20px;
+}
+
+.Contact3 {
+    margin-top: 1700px;
+     text-decoration: underline;
+     text-decoration-style: double;
+}
+
+.TY {
+    font-size: 70px;
+    margin-top: 1800px;
+    margin-left: 500px;
+}
+.FV {
+    font-size: 20px;
+    margin-top: 1925px;
+    margin-left: 550px;
+}
+
+.phone {
+    font-size: 80px;
+    background-color: #00CCDD;
+    border-radius: 20px;
+    margin-top: 2050px;
+    margin-left: 850px;
+}
+
+.Pnumber {
+    font-size: 11px;
+    margin-top: 2150px;
+    margin-left: 845px;
+}
+
+.email {
+    font-size: 80px;
+    background-color: #00CCDD;
+    border-radius: 20px;
+    margin-top: 2050px;
+    margin-left: 1150px;
+}
+
+.mailID {
+    font-size: 11px;
+    margin-top: 2150px;
+    margin-left: 1154px;
+}
+
+.whatsapp {
+    font-size: 80px;
+    background-color: #00CCDD;
+    border-radius: 20px;
+    margin-top: 2050px;
+    margin-left: 450px;
+}
+
+.whatsappnum {
+    font-size: 11px;
+    margin-top: 2150px;
+    margin-left: 435px;
+}
+
+.insta {
+    font-size: 80px;
+    background-color: #00CCDD;
+    border-radius: 20px;
+    margin-top: 2050px;
+    margin-left: 160px;
+}
+
+.instaID {
+    font-size: 11px;
+    margin-top: 2150px;
+    margin-left: 150px;
+}
+
+.name {
+    margin-top: 2300px;
+}
+
+.no {
+    margin-top: 2300px;
+    margin-left: 1250px;
+}
